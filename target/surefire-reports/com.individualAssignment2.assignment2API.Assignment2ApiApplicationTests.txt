@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.individualAssignment2.assignment2API.Assignment2ApiApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.376 s -- in com.individualAssignment2.assignment2API.Assignment2ApiApplicationTests
