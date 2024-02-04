@@ -9,11 +9,10 @@ public class Assignment2ApiApplication {
     public static void main(String[] args) {
         SpringApplication.run(Assignment2ApiApplication.class, args);
 
-        Assignment2APIController EmojiObj = new Assignment2APIController();
-        EmojiObj.getEmojiHub();
+        Assignment2APIController controller = new Assignment2APIController();
+        controller.getEmojiHub();
 
-        Assignment2APIController animeObj = new Assignment2APIController();
-        animeObj.getAnime();
+        controller.getAnime();
     }
 
 }
